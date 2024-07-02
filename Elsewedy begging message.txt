@@ -1,0 +1,14 @@
+Hello Elsewedy Electric,
+
+My name is Nour Eddin Alchmri, a 4th year Computer Engineering student.
+I applied to your job posting for a Cybersecurity Intern position.
+
+In addition to my technical experience from Ajman University, I gained a good amount of general cybersecurity and networking expertise with:
+1) Utilizing range of security tools (nmap, burp suite, metasploit etc.) from Kali Linux and Parrot Security OS to perform specific tasks like pentesting, cryptography, reconnaisance etc.
+2) Python to automate basic security auditing
+3) Wireshark to monitor and inspect network traffic
+4) Packet Tracer to simulate performance and security of network configurations
+and more. 
+
+Additionally, I accumulated certificates from reputable organizations such as the Google Cybersecurity Certification, CEH v12 (in progress) and various certificates from Coursera, Cisco and Huawei.
+As someone who is passionate about networking and security, I believe I can bring a lot to the table and learn lots of valuable experience from experts in the company.
